@@ -1,2 +1,2 @@
-# Big-CNC-3DPrinter
-Open Source CNC/3Dprinter
+# Large CNC FAB 2.0 style
+Open Source CNC
